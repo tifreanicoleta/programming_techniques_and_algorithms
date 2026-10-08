@@ -1,0 +1,11 @@
+
+ Nr. Cod Nume produs         Marca        Pret     Stoc 
+
+ 1   10   Telefon              Samsung Galaxy 1999.95  5   
+ 2   11   Telefon              Samsung A56  2044.99  8   
+ 3   12   Telefon              Iphone 12    3499.99  15  
+ 4   13   Telefon              Iphone 13    4289.99  9   
+ 5   14   Laptop               Asus         3249.00  3   
+ 6   15   Laptop               HP           2199.99  6   
+ 7   17   Televizor            LG           2555.98  8   
+ 8   18   Televizor            Sony         3569.25  8   

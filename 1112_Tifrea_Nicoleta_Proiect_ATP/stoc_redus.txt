@@ -1,0 +1,2 @@
+
+ Cod: 14   Nume: Laptop               Marca: Asus         Pret: 3249.00 Stoc: 3  
